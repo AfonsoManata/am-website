@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   title: "Afonso Manata",
   description: "Afonso Manata Website",
   icons: {
-    icon: "./../public/img/FotoPerfil.jpg",
+    icon: "./img/FotoPerfil.jpg",
   },
 };
 
